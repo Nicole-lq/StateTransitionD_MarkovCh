@@ -1,4 +1,8 @@
-# Markov Chain diagrams for cost allocation and state transition analysis
+<div align="center">
+
+# Markov Chain diagrams: cost allocation and state transition analysis
+
+</div>
 
 This repository provides Python scripts to create visual diagrams representing state transitions in Markov chains. Using the `pydot` library, these scripts define states, assign transition probabilities, and generate SVG diagrams to visualize the flows between transient and absorbing states in various scenarios.
 
@@ -16,7 +20,7 @@ This approach is useful for visualizing transition flows in systems with transie
 
 Below is an example of a generated state transition diagram:
 
-![State Transition Diagram]('images/diagram.png')
+ <img src="images/diagram1.png" width="400">
 
 ---
 
