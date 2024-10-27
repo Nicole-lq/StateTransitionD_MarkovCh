@@ -22,11 +22,11 @@ This approach is useful for visualizing transition flows in systems with transie
 
 ## Requirements
 
-Ensure that you have `pydot` and `graphviz` installed to use the scripts in this repository. You can install `pydot` using `pip`:
+Ensure that you have `pydot` and `matplotlib` installed to use the scripts in this repository. You can install `pydot` using `pip`:
 ```bash
-pip install pydot
+pip install pydot matplotlib
 ```
-To install Graphviz, follow the [installation guide](https://graphviz.org/download/).
+
 
 ## Example Diagrams
 
