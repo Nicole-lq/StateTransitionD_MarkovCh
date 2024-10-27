@@ -33,7 +33,7 @@ To install Graphviz, follow the [installation guide](https://graphviz.org/downlo
 Below is an example of a generated state transition diagram that helps to demonstrate how transitions between states can be visualized, supporting analyses in various Markov chain applications.
 
 <div align="center">
-    <img src="images/diagram1.png" width="500" alt="Example State Transition Diagram">
+    <img src="images/diagram.png" width="500" alt="Example State Transition Diagram">
 </div>
 
 
